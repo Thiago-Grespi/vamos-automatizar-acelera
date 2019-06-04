@@ -13,3 +13,17 @@ C:\Users\thiago.goulart\Documents\vamos_automatizar_acelera\VamosAutomatizar\Vam
 C:\Users\thiago.goulart\Documents\vamos_automatizar_acelera\VamosAutomatizar\VamosAutomatizar.E2ETest\obj\Debug\netcoreapp2.1\VamosAutomatizar.E2ETest.pdb
 C:\Users\thiago.goulart\Documents\vamos_automatizar_acelera\VamosAutomatizar\VamosAutomatizar.E2ETest\bin\Debug\netcoreapp2.1\Driver\chromedriver.exe
 C:\Users\thiago.goulart\Documents\vamos_automatizar_acelera\VamosAutomatizar\VamosAutomatizar.E2ETest\obj\Debug\netcoreapp2.1\VamosAutomatizar.E2ETest.csprojAssemblyReference.cache
+C:\Users\thiago.goulart\Documents\vamos-automatizar-acelera\VamosAutomatizar\VamosAutomatizar.E2ETest\obj\Debug\netcoreapp2.1\VamosAutomatizar.E2ETest.csproj.CoreCompileInputs.cache
+C:\Users\thiago.goulart\Documents\vamos-automatizar-acelera\VamosAutomatizar\VamosAutomatizar.E2ETest\obj\Debug\netcoreapp2.1\VamosAutomatizar.E2ETest.AssemblyInfoInputs.cache
+C:\Users\thiago.goulart\Documents\vamos-automatizar-acelera\VamosAutomatizar\VamosAutomatizar.E2ETest\obj\Debug\netcoreapp2.1\VamosAutomatizar.E2ETest.AssemblyInfo.cs
+C:\Users\thiago.goulart\Documents\vamos-automatizar-acelera\VamosAutomatizar\VamosAutomatizar.E2ETest\obj\Debug\netcoreapp2.1\VamosAutomatizar.E2ETest.dll
+C:\Users\thiago.goulart\Documents\vamos-automatizar-acelera\VamosAutomatizar\VamosAutomatizar.E2ETest\obj\Debug\netcoreapp2.1\VamosAutomatizar.E2ETest.pdb
+C:\Users\thiago.goulart\Documents\vamos-automatizar-acelera\VamosAutomatizar\VamosAutomatizar.E2ETest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\thiago.goulart\Documents\vamos-automatizar-acelera\VamosAutomatizar\VamosAutomatizar.E2ETest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\thiago.goulart\Documents\vamos-automatizar-acelera\VamosAutomatizar\VamosAutomatizar.E2ETest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\thiago.goulart\Documents\vamos-automatizar-acelera\VamosAutomatizar\VamosAutomatizar.E2ETest\bin\Debug\netcoreapp2.1\Driver\chromedriver.exe
+C:\Users\thiago.goulart\Documents\vamos-automatizar-acelera\VamosAutomatizar\VamosAutomatizar.E2ETest\bin\Debug\netcoreapp2.1\VamosAutomatizar.E2ETest.deps.json
+C:\Users\thiago.goulart\Documents\vamos-automatizar-acelera\VamosAutomatizar\VamosAutomatizar.E2ETest\bin\Debug\netcoreapp2.1\VamosAutomatizar.E2ETest.runtimeconfig.json
+C:\Users\thiago.goulart\Documents\vamos-automatizar-acelera\VamosAutomatizar\VamosAutomatizar.E2ETest\bin\Debug\netcoreapp2.1\VamosAutomatizar.E2ETest.runtimeconfig.dev.json
+C:\Users\thiago.goulart\Documents\vamos-automatizar-acelera\VamosAutomatizar\VamosAutomatizar.E2ETest\bin\Debug\netcoreapp2.1\VamosAutomatizar.E2ETest.dll
+C:\Users\thiago.goulart\Documents\vamos-automatizar-acelera\VamosAutomatizar\VamosAutomatizar.E2ETest\bin\Debug\netcoreapp2.1\VamosAutomatizar.E2ETest.pdb
