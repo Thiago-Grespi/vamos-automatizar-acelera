@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\VamosAutomatizar.E2ETest",
+    "\\VamosAutomatizar.E2ETest\\bin",
+    "\\VamosAutomatizar.E2ETest\\bin\\Debug",
+    "\\VamosAutomatizar.E2ETest\\bin\\Debug\\netcoreapp2.1",
+    "\\VamosAutomatizar.E2ETest\\bin\\Debug\\netcoreapp2.1\\Driver"
+  ],
+  "SelectedNode": "\\VamosAutomatizar.E2ETest\\bin\\Debug\\netcoreapp2.1\\Driver\\chromedriver.exe",
+  "PreviewInSolutionExplorer": false
+}
