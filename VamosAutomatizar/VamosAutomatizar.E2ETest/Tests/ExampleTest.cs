@@ -17,7 +17,8 @@ namespace VamosAutomatizar.E2ETest.Tests
         [Fact]
         public void GoogleSearch()
         {
-            string dir = Environment.GetFolderPath(Environment.SpecialFolder.UserProfile);
+            string chromedriverPath = Environment.GetFolderPath(Environment.SpecialFolder.UserProfile) + 
+                "Documents\\vamos-automatizar-acelera\\VamosAutomatizar\\VamosAutomatizar.E2ETest\\Driver";
             driver = new ChromeDriver(dir);
             driver.Manage().Window.Maximize();
             driver.Navigate().GoToUrl("https://www.google.com/");
