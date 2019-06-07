@@ -1,9 +1,15 @@
 # vamos-automatizar-acelera
 
-1 - Instalar VS Code
-2 - Instalar SDK dot net core
-3 - Instalar no Code
-  - Nuget
-  - TestExplorer
-  - C# extensions
-  - 
+<h2>Configurando o ambiente</h2>
+
+<ol>
+  <li>Instalar VS Code https://code.visualstudio.com/download</li>
+  <li>Instalar SDK .net core https://dotnet.microsoft.com/download</li>
+  <li>Extensões do VS Code:
+    <ol>C#</ol>
+    <ol>C# Extensions</ol>
+  </li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ol>
