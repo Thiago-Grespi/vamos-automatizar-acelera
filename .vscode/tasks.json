@@ -1,0 +1,36 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "build",
+                "${workspaceFolder}/VamosAutomatizar/VamosAutomatizar.E2ETest/VamosAutomatizar.E2ETest.csproj"
+            ],
+            "problemMatcher": "$tsc"
+        },
+        {
+            "label": "publish",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "publish",
+                "${workspaceFolder}/VamosAutomatizar/VamosAutomatizar.E2ETest/VamosAutomatizar.E2ETest.csproj"
+            ],
+            "problemMatcher": "$tsc"
+        },
+        {
+            "label": "watch",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "watch",
+                "run",
+                "${workspaceFolder}/VamosAutomatizar/VamosAutomatizar.E2ETest/VamosAutomatizar.E2ETest.csproj"
+            ],
+            "problemMatcher": "$tsc"
+        }
+    ]
+}
