@@ -11,7 +11,8 @@
       <li>C# Extensions</li>
     </ol>
   </li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Instalar o git: https://woliveiras.com.br/posts/instalando-o-git-windows/</li>
+  <li>Acessar o terminal</li>
+  <li>Navevar até a pasta Documents</li>
+  <li>Executar o comando: git clone https://github.com/Thiago-Grespi/vamos-automatizar-acelera.git</li>
 </ol>
