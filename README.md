@@ -3,6 +3,8 @@
 <h2>Configurando o ambiente</h2>
 
 <ol>
+    <li>Para os exercícios, vamos utilizar como browser padrão o Google Chrome. Verifique a versão do Chrome que você está utilizando (73, 74, 75 ou 76) e baixe o respectivo driver pelo link: http://chromedriver.chromium.org/downloads.</li>
+    <li>Após ter baixado o driver específico da sua versão do Chrome, crie uma pasta chamada 'chromedriver' dentro do diretório 'C:\' e copie o 'chromedriver.exe' para dentro dela.</li>
   <li>Instalar VS Code https://code.visualstudio.com/download</li>
   <li>Instalar SDK .net core https://dotnet.microsoft.com/download</li>
   <li>Extensões do VS Code:
