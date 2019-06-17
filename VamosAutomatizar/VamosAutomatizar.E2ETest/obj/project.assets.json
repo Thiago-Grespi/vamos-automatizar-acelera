@@ -5788,23 +5788,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\thiago.goulart\\.nuget\\packages\\": {},
+    "C:\\Users\\LucasCologni\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thiago.goulart\\Documents\\vamos-automatizar-acelera\\VamosAutomatizar\\VamosAutomatizar.E2ETest\\VamosAutomatizar.E2ETest.csproj",
+      "projectUniqueName": "C:\\Development\\vamos-automatizar-acelera\\VamosAutomatizar\\VamosAutomatizar.E2ETest\\VamosAutomatizar.E2ETest.csproj",
       "projectName": "VamosAutomatizar.E2ETest",
-      "projectPath": "C:\\Users\\thiago.goulart\\Documents\\vamos-automatizar-acelera\\VamosAutomatizar\\VamosAutomatizar.E2ETest\\VamosAutomatizar.E2ETest.csproj",
-      "packagesPath": "C:\\Users\\thiago.goulart\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thiago.goulart\\Documents\\vamos-automatizar-acelera\\VamosAutomatizar\\VamosAutomatizar.E2ETest\\obj\\",
+      "projectPath": "C:\\Development\\vamos-automatizar-acelera\\VamosAutomatizar\\VamosAutomatizar.E2ETest\\VamosAutomatizar.E2ETest.csproj",
+      "packagesPath": "C:\\Users\\LucasCologni\\.nuget\\packages\\",
+      "outputPath": "C:\\Development\\vamos-automatizar-acelera\\VamosAutomatizar\\VamosAutomatizar.E2ETest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\thiago.goulart\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\LucasCologni\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5833,6 +5833,7 @@
             "version": "[16.1.0, )"
           },
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true
